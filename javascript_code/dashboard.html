@@ -7,27 +7,37 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Cancer rates</title>
     <style>
+        .chart-container {
+            width: 100%;
+        }
         .image-container {
             display: flex;
             justify-content: space-between;
-            gap: 10px; 
+            gap: 10px;
+        }
+        .bar-chart-container {
+            margin-top: 20px;
         }
         .image-container img {
-            max-width: 100%;
+            max-width: 30%;
             height: auto;
         }
-    </style>
+        .bar-chart-container img {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+        }
+    </style>   
 </head>
 
-
-<body>
-    <div class="pie_charts">
-        <img src="../images/Cancer_Patients_by_Gender.png">
-        <img src="../images/dietary_habits.png">
-        <img src="../images/Obesity_rates.png">
+<body>-
+    <div class="image-container">
+        <img src="../images/Cancer_Patients_by_Gender.png" alt="Cancer Patients by Gender">
+        <img src="../images/dietary_habits.png" alt="Dietary habits">
+        <img src="../images/Obesity_rates.png" alt="Obesity rates">
     </div>
-    <div class="bar_chart">
-        <img src="../images/bargraph_age_range.png">
+    <div class="bar-chart-container">
+        <img src="../images/bargraph_age_range.png" alt="Bar Chart">
     </div>
 </body>
 
