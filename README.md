@@ -1,4 +1,4 @@
-# healthcare_analysis
+# Healthcare Analysis
 This repository is a personal project I underwent to hone my data analysis skills. I will display my skills regarding data extraction, transforming, and wrangling the data, then displaying the visuals in a simple dashboard.
 
 ## Data Extraction and Transformation
