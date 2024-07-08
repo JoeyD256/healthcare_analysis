@@ -1,4 +1,4 @@
-# healthcare_analysis
+# Healthcare Analysis
 This repository is a personal project I underwent to hone my data analysis skills. I will display my skills regarding data extraction, transforming, and wrangling the data, then displaying the visuals in a simple dashboard.
 
 ## Data Extraction and Transformation
@@ -8,4 +8,4 @@ I started this project by finding an xlsx file on kaggle that displayed data reg
 For this project, I decided to hone in on the dietary habits of the patients, their gender, obesity rates, and age. For the age, I display my knowledge of bins and created a bar chart on those bins. For example I created a bin with an age range of 0-20, 21-30, 31-40 and so on. This bar chart was already sorted in decreasing order in regards to their value. However, I plan to change that in the future as I see fit. The other three graphs were pretty straight forward as I decided to make them all pie charts. I feel it's important to be reminded that the numbers on the pie charts are not supposed to be read as numeric values, but a score given to the patient in regards to that category. For example, upon reading the pie chart that displays the obesity rates, it indicates that 35.6% of patients scored a 7. Meaning 35.6% of patients are on the higher end regarding their weight. I then saved all of these images to their own folder for future use in displaying all of these visuals.
 
 ## Data Visualization
-I began data visulization by creating an html file, and I plan on using javascript, so I created a javascript file as well. I have not accomplished much yet in the data visualization stage of this project, but currently I have the images displayed. In the future, I plan on organizing the dashboard, cleaning it, and making it look nicer.
+I began data visulization by creating an html file, and I plan on using javascript, so I created a javascript file as well. Currently, I have the images displayed in the manner I like, with the three pie charts across the top, and the barchart underlying all of them below. However, I now have run into another issue where the barchart is far too big to be presentable. I plan to fix this tomorrow. I currently have no code writtin in the javascript file, but I do plan to use it soon.
