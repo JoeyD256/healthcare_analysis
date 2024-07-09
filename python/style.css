@@ -1,0 +1,14 @@
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.bar-chart-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.image-container img {
+    max-width: 30%;
+    height: auto;
+}
