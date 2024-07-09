@@ -13,5 +13,5 @@ I began data visulization by creating an html file, I wanted to integrate JavaSc
 ### Python
 I already kind of gave an overview of the python dashboard, so I'll be brief as I don't want to seem repetative. Using Jupyter Notebook, I created three pie charts comparing cancer patients in regards to gender, dietary habit ratings, and obesity ratings, and a bar chart that displayed the groups of the ages of the patients using bins. I then saved these images of these graphs into a folder called "images" and refrenced these images when creating a dashboard to display these images using html.
 
-### JavaScript Dashboard
+### JavaScript
 So far in the JavaScript dashboard, I only have the bar chart of the age ranges displayed. I displayed my ability to create bins in JavaScript, and useed the "Chart.js" library to create the graph. However, to be completely transparent, it has been a while since I have extensively worked with JavaScript, and on top of that this was my first time working with the "Chart.js" library. Because of these reasons, I relied heavily on chatgpt to help me whenever I got stumped. But I really enjoyed the challenge and it felt nice to learn a new library, and when the graph appeared how I wanted it to, it felt very rewarding.
